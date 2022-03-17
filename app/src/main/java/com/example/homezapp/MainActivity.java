@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnLogOut;
     FirebaseAuth mAuth;
+     // Hi chiranjay naman here 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
